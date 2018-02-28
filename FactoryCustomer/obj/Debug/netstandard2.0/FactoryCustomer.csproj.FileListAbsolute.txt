@@ -1,0 +1,11 @@
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\bin\Debug\netstandard2.0\FactoryCustomer.deps.json
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\bin\Debug\netstandard2.0\FactoryCustomer.dll
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\bin\Debug\netstandard2.0\FactoryCustomer.pdb
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\bin\Debug\netstandard2.0\customerProjectPhase1.dll
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\bin\Debug\netstandard2.0\customerProjectPhase1.pdb
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\obj\Debug\netstandard2.0\FactoryCustomer.csprojResolveAssemblyReference.cache
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\obj\Debug\netstandard2.0\FactoryCustomer.csproj.CoreCompileInputs.cache
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\obj\Debug\netstandard2.0\FactoryCustomer.AssemblyInfoInputs.cache
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\obj\Debug\netstandard2.0\FactoryCustomer.AssemblyInfo.cs
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\obj\Debug\netstandard2.0\FactoryCustomer.dll
+C:\Users\Isolated Gamerz\source\repos\customerProjectPhase1\FactoryCustomer\obj\Debug\netstandard2.0\FactoryCustomer.pdb

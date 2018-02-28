@@ -1,0 +1,6 @@
+c:\users\isolated gamerz\source\repos\customerProjectPhase1\customerProjectPhase1\bin\Debug\customerProjectPhase1.dll
+c:\users\isolated gamerz\source\repos\customerProjectPhase1\customerProjectPhase1\bin\Debug\customerProjectPhase1.pdb
+c:\users\isolated gamerz\source\repos\customerProjectPhase1\customerProjectPhase1\obj\Debug\MiddleLayer.csprojResolveAssemblyReference.cache
+c:\users\isolated gamerz\source\repos\customerProjectPhase1\customerProjectPhase1\obj\Debug\MiddleLayer.csproj.CoreCompileInputs.cache
+c:\users\isolated gamerz\source\repos\customerProjectPhase1\customerProjectPhase1\obj\Debug\customerProjectPhase1.dll
+c:\users\isolated gamerz\source\repos\customerProjectPhase1\customerProjectPhase1\obj\Debug\customerProjectPhase1.pdb
